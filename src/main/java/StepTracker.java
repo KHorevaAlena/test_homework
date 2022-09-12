@@ -104,3 +104,4 @@ public class StepTracker {
         int[] stepsPerDay = new int[30];
     }
 }
+
